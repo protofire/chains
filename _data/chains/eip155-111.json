@@ -1,16 +1,23 @@
 {
-  "name": "EtherLite Chain",
-  "chain": "ETL",
-  "rpc": ["https://rpc.etherlite.org"],
-  "faucets": ["https://etherlite.org/faucets"],
+  "name": "Velas EVM Testnet",
+  "chain": "Velas Testnet",
+  "icon": "velas",
+  "rpc": ["https://evmexplorer.testnet.velas.com/rpc"],
+  "faucets": [],
   "nativeCurrency": {
-    "name": "EtherLite",
-    "symbol": "ETL",
+    "name": "Velas",
+    "symbol": "VLX",
     "decimals": 18
   },
-  "infoURL": "https://etherlite.org",
-  "shortName": "ETL",
+  "infoURL": "https://velas.com",
+  "shortName": "tvlx",
   "chainId": 111,
   "networkId": 111,
-  "icon": "etherlite"
+  "explorers": [
+    {
+      "name": "Velas Testnet Explorer",
+      "url": "https://evmexplorer.testnet.velas.com/",
+      "standard": "EIP3091"
+    }
+  ]
 }
