@@ -1343,6 +1343,14 @@
     "format": "png"
   }]
 }, {
+  "name": "genesyscode",
+  "icons": [{
+    "url": "ipfs://bafkreihgmpaceze7rxpajv7yrlx3cb6daqubippkpvgryzairtaubsjjoe",
+    "width": 512,
+    "height": 512,
+    "format": "png"
+  }]
+}, {
   "name": "orderlyTestnet",
   "icons": [{
     "url": "ipfs://QmSpwp3RAVhZsErAQrCQxEmjnGqJQMigarzZbfqr9Ktakb",
@@ -2764,6 +2772,14 @@
     "url": "ipfs://bafkreidchntjaxmq52cuqqoalpajk5ssk4p77k7n4jgywqmkpldo5qgobm",
     "width": 1200,
     "height": 1200,
+    "format": "png"
+  }]
+}, {
+  "name": "immutable",
+  "icons": [{
+    "url": "ipfs://QmXFUYFW4e6wifbU9LKVq7owM14bnE6ZbbYq3bn1jBP3Mw",
+    "width": 1168,
+    "height": 1168,
     "format": "png"
   }]
 }, {

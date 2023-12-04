@@ -4830,6 +4830,26 @@
     "standard": "none"
   }]
 }, {
+  "name": "Areon Network Mainnet",
+  "chain": "Areon",
+  "icon": "areon",
+  "rpc": ["https://mainnet-rpc.areon.network"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Areon",
+    "symbol": "AREA",
+    "decimals": 18
+  },
+  "infoURL": "https://areon.network",
+  "shortName": "area",
+  "chainId": 463,
+  "networkId": 463,
+  "explorers": [{
+    "name": "AreonScan",
+    "url": "https://areonscan.com",
+    "standard": "none"
+  }]
+}, {
   "name": "Rupaya",
   "chain": "RUPX",
   "rpc": [],
@@ -5368,6 +5388,25 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "Kalichain Mainnet",
+  "chain": "Kalichain",
+  "rpc": ["https://rpc.kalichain.com"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "kalis",
+    "symbol": "KALIS",
+    "decimals": 18
+  },
+  "infoURL": "https://kalichain.com",
+  "shortName": "kalichain",
+  "chainId": 653,
+  "networkId": 653,
+  "explorers": [{
+    "name": "kalichain explorer",
+    "url": "https://explorer.kalichain.com",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Pixie Chain Testnet",
   "chain": "PixieChain",
   "rpc": ["https://http-testnet.chain.pixie.xyz", "wss://ws-testnet.chain.pixie.xyz"],
@@ -5584,6 +5623,21 @@
     "url": "https://explorer.lycanchain.com",
     "standard": "EIP3091"
   }]
+}, {
+  "name": "Blucrates",
+  "chain": "BLU",
+  "rpc": ["https://data.bluchain.pro"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Blucrates",
+    "symbol": "BLU",
+    "decimals": 18
+  },
+  "infoURL": "https://www.blucrates.com",
+  "shortName": "blu",
+  "chainId": 727,
+  "networkId": 727,
+  "slip44": 727
 }, {
   "name": "Canto Testnet",
   "chain": "Canto Tesnet",
@@ -11358,6 +11412,26 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "X1 Fastnet",
+  "chain": "X1",
+  "rpc": ["https://x1-fastnet.xen.network"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "XN",
+    "symbol": "XN",
+    "decimals": 18
+  },
+  "infoURL": "https://docs.xen.network/go-x1/",
+  "shortName": "x1-fastnet",
+  "chainId": 4003,
+  "networkId": 4003,
+  "explorers": [{
+    "name": "Blockscout",
+    "url": "https://explorer.x1-fastnet.xen.network",
+    "icon": "blockscout",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Bobaopera Testnet",
   "chain": "Bobaopera Testnet",
   "rpc": ["https://testnet.bobaopera.boba.network", "wss://wss.testnet.bobaopera.boba.network", "https://replica.testnet.bobaopera.boba.network", "wss://replica-wss.testnet.bobaopera.boba.network"],
@@ -15198,6 +15272,27 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "Immutable zkEVM Testnet",
+  "chain": "Immutable zkEVM",
+  "rpc": ["https://rpc.testnet.immutable.com"],
+  "faucets": ["https://docs.immutable.com/docs/zkEVM/guides/faucet"],
+  "nativeCurrency": {
+    "name": "Test IMX",
+    "symbol": "tIMX",
+    "decimals": 18
+  },
+  "infoURL": "https://www.immutable.com",
+  "shortName": "imx-testnet",
+  "chainId": 13473,
+  "networkId": 13473,
+  "icon": "immutable",
+  "explorers": [{
+    "name": "Immutable Testnet explorer",
+    "url": "https://explorer.testnet.immutable.com",
+    "standard": "EIP3091",
+    "icon": "immutable"
+  }]
+}, {
   "name": "Susono",
   "chain": "SUS",
   "rpc": ["https://gateway.opn.network/node/ext/bc/2VsZe5DstWw2bfgdx3YbjKcMsJnNDjni95sZorBEdk9L9Qr9Fr/rpc"],
@@ -15250,6 +15345,27 @@
   "chainId": 14853,
   "networkId": 14853,
   "explorers": []
+}, {
+  "name": "Immutable zkEVM Devnet",
+  "chain": "Immutable zkEVM",
+  "rpc": ["https://rpc.dev.immutable.com"],
+  "faucets": ["https://docs.immutable.com/docs/zkEVM/guides/faucet"],
+  "nativeCurrency": {
+    "name": "Dev IMX",
+    "symbol": "dIMX",
+    "decimals": 18
+  },
+  "infoURL": "https://www.immutable.com",
+  "shortName": "imx-devnet",
+  "chainId": 15003,
+  "networkId": 15003,
+  "icon": "immutable",
+  "explorers": [{
+    "name": "Immutable Devnet explorer",
+    "url": "https://explorer.dev.immutable.com",
+    "standard": "EIP3091",
+    "icon": "immutable"
+  }]
 }, {
   "name": "LoopNetwork Mainnet",
   "chain": "LoopNetwork",
@@ -17492,6 +17608,27 @@
   }],
   "status": "active"
 }, {
+  "name": "Genesys Code Mainnet",
+  "chain": "GCODE",
+  "rpc": ["https://mainnet.genesyscode.io/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "GenesysCode",
+    "symbol": "GCODE",
+    "decimals": 18
+  },
+  "infoURL": "https://genesyscode.io",
+  "shortName": "gcode",
+  "chainId": 59971,
+  "networkId": 59971,
+  "icon": "genesyscode",
+  "explorers": [{
+    "name": "Genesys Scan",
+    "url": "https://genesysscan.io",
+    "icon": "genesyscode",
+    "standard": "none"
+  }]
+}, {
   "name": "Thinkium Testnet Chain 0",
   "chain": "Thinkium",
   "rpc": ["https://test.thinkiumrpc.net/"],
@@ -19634,6 +19771,26 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "X1 Devnet",
+  "chain": "X1",
+  "rpc": ["https://x1-devnet.xen.network"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "XN",
+    "symbol": "XN",
+    "decimals": 18
+  },
+  "infoURL": "https://docs.xen.network/x1/",
+  "shortName": "x1-devnet",
+  "chainId": 202212,
+  "networkId": 202212,
+  "explorers": [{
+    "name": "Blockscout",
+    "url": "https://explorer.x1-devnet.xen.network",
+    "icon": "blockscout",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Jellie",
   "title": "Twala Testnet Jellie",
   "shortName": "twl-jellie",
@@ -19654,6 +19811,26 @@
     "url": "https://jellie.twala.io",
     "standard": "EIP3091",
     "icon": "twala"
+  }]
+}, {
+  "name": "X1 Network",
+  "chain": "X1",
+  "rpc": ["https://x1-testnet.xen.network"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "XN",
+    "symbol": "XN",
+    "decimals": 18
+  },
+  "infoURL": "https://docs.xen.network/go-x1/",
+  "shortName": "x1-testnet",
+  "chainId": 204005,
+  "networkId": 204005,
+  "explorers": [{
+    "name": "Blockscout",
+    "url": "https://explorer.x1-testnet.xen.network",
+    "icon": "blockscout",
+    "standard": "EIP3091"
   }]
 }, {
   "name": "PlatON Mainnet",
@@ -21072,6 +21249,28 @@
   "explorers": [{
     "name": "Ecrox Chain Explorer",
     "url": "https://ecroxscan.com",
+    "standard": "EIP3091"
+  }]
+}, {
+  "name": "Tiltyard Subnet",
+  "chain": "TILTYARD",
+  "rpc": ["https://subnets.avax.network/tiltyard/testnet/rpc"],
+  "features": [{
+    "name": "EIP1559"
+  }],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Tiltyard Token",
+    "symbol": "TILTG",
+    "decimals": 18
+  },
+  "infoURL": "",
+  "shortName": "tiltyard",
+  "chainId": 1127469,
+  "networkId": 1127469,
+  "explorers": [{
+    "name": "TILTYARD Explorer",
+    "url": "http://testnet-explorer.tiltyard.gg",
     "standard": "EIP3091"
   }]
 }, {

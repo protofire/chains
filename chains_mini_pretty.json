@@ -3093,6 +3093,19 @@
   "faucets": [],
   "infoURL": "https://areon.network"
 }, {
+  "name": "Areon Network Mainnet",
+  "chainId": 463,
+  "shortName": "area",
+  "networkId": 463,
+  "nativeCurrency": {
+    "name": "Areon",
+    "symbol": "AREA",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc.areon.network"],
+  "faucets": [],
+  "infoURL": "https://areon.network"
+}, {
   "name": "Rupaya",
   "chainId": 499,
   "shortName": "rupx",
@@ -3444,6 +3457,19 @@
   "faucets": [],
   "infoURL": "https://ace.fusionist.io/"
 }, {
+  "name": "Kalichain Mainnet",
+  "chainId": 653,
+  "shortName": "kalichain",
+  "networkId": 653,
+  "nativeCurrency": {
+    "name": "kalis",
+    "symbol": "KALIS",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.kalichain.com"],
+  "faucets": [],
+  "infoURL": "https://kalichain.com"
+}, {
   "name": "Pixie Chain Testnet",
   "chainId": 666,
   "shortName": "pixie-chain-testnet",
@@ -3586,6 +3612,19 @@
   "rpc": ["https://rpc.lycanchain.com/"],
   "faucets": [],
   "infoURL": "https://lycanchain.com"
+}, {
+  "name": "Blucrates",
+  "chainId": 727,
+  "shortName": "blu",
+  "networkId": 727,
+  "nativeCurrency": {
+    "name": "Blucrates",
+    "symbol": "BLU",
+    "decimals": 18
+  },
+  "rpc": ["https://data.bluchain.pro"],
+  "faucets": [],
+  "infoURL": "https://www.blucrates.com"
 }, {
   "name": "Canto Testnet",
   "chainId": 740,
@@ -7344,6 +7383,19 @@
   "faucets": ["https://faucet.fantom.network"],
   "infoURL": "https://docs.fantom.foundation/quick-start/short-guide#fantom-testnet"
 }, {
+  "name": "X1 Fastnet",
+  "chainId": 4003,
+  "shortName": "x1-fastnet",
+  "networkId": 4003,
+  "nativeCurrency": {
+    "name": "XN",
+    "symbol": "XN",
+    "decimals": 18
+  },
+  "rpc": ["https://x1-fastnet.xen.network"],
+  "faucets": [],
+  "infoURL": "https://docs.xen.network/go-x1/"
+}, {
   "name": "Bobaopera Testnet",
   "chainId": 4051,
   "shortName": "BobaoperaTestnet",
@@ -9788,6 +9840,19 @@
   "faucets": [],
   "infoURL": "https://cryptophoenix.org/phoenix"
 }, {
+  "name": "Immutable zkEVM Testnet",
+  "chainId": 13473,
+  "shortName": "imx-testnet",
+  "networkId": 13473,
+  "nativeCurrency": {
+    "name": "Test IMX",
+    "symbol": "tIMX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.testnet.immutable.com"],
+  "faucets": ["https://docs.immutable.com/docs/zkEVM/guides/faucet"],
+  "infoURL": "https://www.immutable.com"
+}, {
   "name": "Susono",
   "chainId": 13812,
   "shortName": "sus",
@@ -9826,6 +9891,19 @@
   "rpc": ["https://explorer-rpc-http.testnet5.stages.humanode.io"],
   "faucets": ["https://t.me/HumanodeTestnet5FaucetBot"],
   "infoURL": "https://humanode.io"
+}, {
+  "name": "Immutable zkEVM Devnet",
+  "chainId": 15003,
+  "shortName": "imx-devnet",
+  "networkId": 15003,
+  "nativeCurrency": {
+    "name": "Dev IMX",
+    "symbol": "dIMX",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.dev.immutable.com"],
+  "faucets": ["https://docs.immutable.com/docs/zkEVM/guides/faucet"],
+  "infoURL": "https://www.immutable.com"
 }, {
   "name": "LoopNetwork Mainnet",
   "chainId": 15551,
@@ -11191,6 +11269,19 @@
   "rpc": ["https://rpc.linea.build", "wss://rpc.linea.build", "https://linea-mainnet.infura.io/v3/${INFURA_API_KEY}", "wss://linea-mainnet.infura.io/ws/v3/${INFURA_API_KEY}"],
   "faucets": [],
   "infoURL": "https://linea.build"
+}, {
+  "name": "Genesys Code Mainnet",
+  "chainId": 59971,
+  "shortName": "gcode",
+  "networkId": 59971,
+  "nativeCurrency": {
+    "name": "GenesysCode",
+    "symbol": "GCODE",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet.genesyscode.io/"],
+  "faucets": [],
+  "infoURL": "https://genesyscode.io"
 }, {
   "name": "Thinkium Testnet Chain 0",
   "chainId": 60000,
@@ -12583,6 +12674,19 @@
   "faucets": [],
   "infoURL": "https://decimalchain.com"
 }, {
+  "name": "X1 Devnet",
+  "chainId": 202212,
+  "shortName": "x1-devnet",
+  "networkId": 202212,
+  "nativeCurrency": {
+    "name": "XN",
+    "symbol": "XN",
+    "decimals": 18
+  },
+  "rpc": ["https://x1-devnet.xen.network"],
+  "faucets": [],
+  "infoURL": "https://docs.xen.network/x1/"
+}, {
   "name": "Jellie",
   "chainId": 202624,
   "shortName": "twl-jellie",
@@ -12595,6 +12699,19 @@
   "rpc": ["https://jellie-rpc.twala.io/", "wss://jellie-rpc-wss.twala.io/"],
   "faucets": [],
   "infoURL": "https://twala.io/"
+}, {
+  "name": "X1 Network",
+  "chainId": 204005,
+  "shortName": "x1-testnet",
+  "networkId": 204005,
+  "nativeCurrency": {
+    "name": "XN",
+    "symbol": "XN",
+    "decimals": 18
+  },
+  "rpc": ["https://x1-testnet.xen.network"],
+  "faucets": [],
+  "infoURL": "https://docs.xen.network/go-x1/"
 }, {
   "name": "PlatON Mainnet",
   "chainId": 210425,
@@ -13492,6 +13609,19 @@
   "rpc": ["https://mainnet-rpc.ecroxscan.com/"],
   "faucets": [],
   "infoURL": "https://ecroxcoin.io/"
+}, {
+  "name": "Tiltyard Subnet",
+  "chainId": 1127469,
+  "shortName": "tiltyard",
+  "networkId": 1127469,
+  "nativeCurrency": {
+    "name": "Tiltyard Token",
+    "symbol": "TILTG",
+    "decimals": 18
+  },
+  "rpc": ["https://subnets.avax.network/tiltyard/testnet/rpc"],
+  "faucets": [],
+  "infoURL": ""
 }, {
   "name": "zKatana",
   "chainId": 1261120,
