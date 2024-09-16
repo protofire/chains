@@ -10425,6 +10425,27 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "Metacces Testnet",
+  "chain": "Metacces Testnet",
+  "icon": "metacces",
+  "rpc": ["https://tapi.accesscan.io"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Metacces",
+    "symbol": "ACCES",
+    "decimals": 18
+  },
+  "infoURL": "https://metacces.com",
+  "shortName": "ACCESt",
+  "chainId": 1260,
+  "networkId": 1260,
+  "explorers": [{
+    "name": "accesscan",
+    "url": "https://testnet.accesscan.io",
+    "icon": "metacces",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "HALO Mainnet",
   "chain": "HALO",
   "rpc": ["https://nodes.halo.land"],
@@ -13475,6 +13496,27 @@
     "standard": "none"
   }]
 }, {
+  "name": "Metacces Mainnet",
+  "chain": "Metacces Mainnet",
+  "icon": "metacces",
+  "rpc": ["https://oli.accesscan.io"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Metacces",
+    "symbol": "ACCES",
+    "decimals": 18
+  },
+  "infoURL": "https://metacces.com",
+  "shortName": "ACCES",
+  "chainId": 2071,
+  "networkId": 2071,
+  "explorers": [{
+    "name": "accesscan",
+    "url": "https://accesscan.io",
+    "icon": "metacces",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Quokkacoin Mainnet",
   "chain": "Qkacoin",
   "rpc": ["https://rpc.qkacoin.org"],
@@ -14602,6 +14644,7 @@
   "shortName": "6do",
   "chainId": 2477,
   "networkId": 2477,
+  "icon": "6do",
   "explorers": [{
     "name": "6Degree Chain Explorer",
     "url": "https://explorer.6do.world",
@@ -19020,6 +19063,26 @@
     "name": "poolsscan",
     "url": "https://scan.poolsmobility.com",
     "icon": "POOLS",
+    "standard": "EIP3091"
+  }]
+}, {
+  "name": "Mtt Mainnet",
+  "chain": "MTT",
+  "rpc": ["https://evm-rpc.mtt.network"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Mtt mainnet native coin",
+    "symbol": "MTT",
+    "decimals": 18
+  },
+  "infoURL": "https://mtt.network",
+  "shortName": "mtt-mainnet",
+  "chainId": 6880,
+  "networkId": 6880,
+  "icon": "mttnetwork",
+  "explorers": [{
+    "name": "Mtt explorer",
+    "url": "https://explorer.mtt.network",
     "standard": "EIP3091"
   }]
 }, {
@@ -26030,7 +26093,7 @@
 }, {
   "name": "Bitgert Mainnet",
   "chain": "Brise",
-  "rpc": ["https://rpc.icecreamswap.com", "https://mainnet-rpc.brisescan.com", "https://chainrpc.com", "https://serverrpc.com"],
+  "rpc": ["https://rpc-bitgert.icecreamswap.com", "https://mainnet-rpc.brisescan.com", "https://chainrpc.com", "https://serverrpc.com"],
   "faucets": [],
   "nativeCurrency": {
     "name": "Bitrise Token",
@@ -26800,8 +26863,8 @@
     "standard": "EIP3091"
   }]
 }, {
-  "name": "AssetChain Testnet",
-  "chain": "RWA",
+  "name": "Asset Chain Testnet",
+  "chain": "Asset Chain",
   "rpc": ["https://enugu-rpc.assetchain.org"],
   "faucets": ["https://faucet.assetchain.org"],
   "nativeCurrency": {

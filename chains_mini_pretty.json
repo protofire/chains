@@ -6499,6 +6499,19 @@
   "faucets": ["https://cicfaucet.com"],
   "infoURL": "https://www.cicchain.net"
 }, {
+  "name": "Metacces Testnet",
+  "chainId": 1260,
+  "shortName": "ACCESt",
+  "networkId": 1260,
+  "nativeCurrency": {
+    "name": "Metacces",
+    "symbol": "ACCES",
+    "decimals": 18
+  },
+  "rpc": ["https://tapi.accesscan.io"],
+  "faucets": [],
+  "infoURL": "https://metacces.com"
+}, {
   "name": "HALO Mainnet",
   "chainId": 1280,
   "shortName": "HO",
@@ -8396,6 +8409,19 @@
   "rpc": ["https://msc-rpc.movoscan.com", "https://msc-rpc.movochain.org", "https://msc-rpc.movoswap.com"],
   "faucets": [],
   "infoURL": "https://movo.uk"
+}, {
+  "name": "Metacces Mainnet",
+  "chainId": 2071,
+  "shortName": "ACCES",
+  "networkId": 2071,
+  "nativeCurrency": {
+    "name": "Metacces",
+    "symbol": "ACCES",
+    "decimals": 18
+  },
+  "rpc": ["https://oli.accesscan.io"],
+  "faucets": [],
+  "infoURL": "https://metacces.com"
 }, {
   "name": "Quokkacoin Mainnet",
   "chainId": 2077,
@@ -11763,6 +11789,19 @@
   "rpc": ["https://rpc.poolsmobility.com"],
   "faucets": [],
   "infoURL": "https://www.poolschain.org"
+}, {
+  "name": "Mtt Mainnet",
+  "chainId": 6880,
+  "shortName": "mtt-mainnet",
+  "networkId": 6880,
+  "nativeCurrency": {
+    "name": "Mtt mainnet native coin",
+    "symbol": "MTT",
+    "decimals": 18
+  },
+  "rpc": ["https://evm-rpc.mtt.network"],
+  "faucets": [],
+  "infoURL": "https://mtt.network"
 }, {
   "name": "Laika Mainnet",
   "chainId": 6942,
@@ -16102,7 +16141,7 @@
     "symbol": "Brise",
     "decimals": 18
   },
-  "rpc": ["https://rpc.icecreamswap.com", "https://mainnet-rpc.brisescan.com", "https://chainrpc.com", "https://serverrpc.com"],
+  "rpc": ["https://rpc-bitgert.icecreamswap.com", "https://mainnet-rpc.brisescan.com", "https://chainrpc.com", "https://serverrpc.com"],
   "faucets": [],
   "infoURL": "https://bitgert.com/"
 }, {
@@ -16561,7 +16600,7 @@
   "faucets": [],
   "infoURL": "https://goldxchain.io"
 }, {
-  "name": "AssetChain Testnet",
+  "name": "Asset Chain Testnet",
   "chainId": 42421,
   "shortName": "rwa",
   "networkId": 42421,

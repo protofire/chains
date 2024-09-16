@@ -185,9 +185,9 @@
 }, {
   "name": "aia",
   "icons": [{
-    "url": "ipfs://QmXbBMMhjTTGAGjmqMpJm3ufFrtdkfEXCFyXYgz7nnZzsy",
-    "width": 160,
-    "height": 160,
+    "url": "ipfs://QmPAcZioXaoJd8vFRrqdj2cWXWkbSHoCPiyZH9ukncfvfg",
+    "width": 150,
+    "height": 150,
     "format": "png"
   }]
 }, {
@@ -716,6 +716,14 @@
     "url": "ipfs://QmVf1afskRHuZjFSLCZH8397KrVNAoYgyAePX9VMBrPVtx",
     "width": 246,
     "height": 247,
+    "format": "png"
+  }]
+}, {
+  "name": "metacces",
+  "icons": [{
+    "url": "ipfs://QmbpYHpqR68uuJZCwm1CXtN51zi744qWzZ32ob9BKfgFTV",
+    "width": 40,
+    "height": 38,
     "format": "png"
   }]
 }, {
@@ -2199,6 +2207,14 @@
     "format": "png"
   }]
 }, {
+  "name": "mttnetwork",
+  "icons": [{
+    "url": "ipfs://QmRwyxmvNEJBJwXDFAAGSaoUqTLjdthwzhKx3rjyKRR6ZL",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "tmychain",
   "icons": [{
     "url": "ipfs://Qmcd19ksUvNMD1XQFSC55jJhDPoF2zUzzV7woteFiugwBH",
@@ -2268,6 +2284,14 @@
     "url": "ipfs://QmaX5iqQTrJD8TBuvoT97xPMG6LYamjPCPnZUUMh12jc99",
     "width": 297,
     "height": 378,
+    "format": "png"
+  }]
+}, {
+  "name": "6do",
+  "icons": [{
+    "url": "ipfs://QmWyyraWiYNJRAb4AEEkozjh8u5TAnFNG7YnFd7A54AjPi",
+    "width": 500,
+    "height": 500,
     "format": "png"
   }]
 }, {
