@@ -2066,7 +2066,7 @@
   "faucets": [],
   "infoURL": "https://explorer.lightstreams.io"
 }, {
-  "name": "Omni Omega",
+  "name": "Omni Omega Testnet",
   "chainId": 164,
   "shortName": "omni_omega",
   "networkId": 164,
@@ -3895,8 +3895,8 @@
     "symbol": "RUPX",
     "decimals": 18
   },
-  "rpc": [],
-  "faucets": [],
+  "rpc": ["https://rpc.rupaya.io"],
+  "faucets": ["https://faucet.rupaya.io"],
   "infoURL": "https://www.rupaya.io"
 }, {
   "name": "Camino C-Chain",
@@ -9372,6 +9372,19 @@
   "faucets": ["https://morphfaucet.com/"],
   "infoURL": "https://morphl2.io"
 }, {
+  "name": "HyperAGI Mainnet",
+  "chainId": 2868,
+  "shortName": "hypt",
+  "networkId": 1,
+  "nativeCurrency": {
+    "name": "Hyperdust",
+    "symbol": "HYPT",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://hyperagi.network"
+}, {
   "name": "Chips Network",
   "chainId": 2882,
   "shortName": "chips",
@@ -9397,6 +9410,19 @@
   "rpc": ["https://goerli.boba.network/", "wss://wss.goerli.boba.network/"],
   "faucets": [],
   "infoURL": "https://boba.network"
+}, {
+  "name": "Aarma Mainnet",
+  "chainId": 2889,
+  "shortName": "ARMA",
+  "networkId": 2889,
+  "nativeCurrency": {
+    "name": "Aarma",
+    "symbol": "ARMA",
+    "decimals": 18
+  },
+  "rpc": ["https://aarmarpc.com/"],
+  "faucets": [],
+  "infoURL": "https://aarmachain.com"
 }, {
   "name": "Elux Chain",
   "chainId": 2907,
@@ -15664,6 +15690,19 @@
   "faucets": [],
   "infoURL": "https://scan.liquidlayer.network"
 }, {
+  "name": "Everclear Mainnet",
+  "chainId": 25327,
+  "shortName": "Everclear",
+  "networkId": 25327,
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.everclear.raas.gelato.cloud"],
+  "faucets": [],
+  "infoURL": ""
+}, {
   "name": "AlveyChain Testnet",
   "chainId": 25839,
   "shortName": "talv",
@@ -17793,6 +17832,19 @@
     "decimals": 18
   },
   "rpc": ["https://rpc.dm2verse.dmm.com"],
+  "faucets": [],
+  "infoURL": "https://seamoon.dmm.com"
+}, {
+  "name": "DM2 Verse Testnet",
+  "chainId": 68775,
+  "shortName": "dm2t",
+  "networkId": 68775,
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.testnet.dm2verse.dmm.com"],
   "faucets": [],
   "infoURL": "https://seamoon.dmm.com"
 }, {
@@ -22151,6 +22203,19 @@
   "faucets": [],
   "infoURL": "https://www.anwang.com"
 }, {
+  "name": "COTI Testnet",
+  "chainId": 7082400,
+  "shortName": "coti-testnet",
+  "networkId": 7082400,
+  "nativeCurrency": {
+    "name": "COTI",
+    "symbol": "COTI",
+    "decimals": 18
+  },
+  "rpc": ["https://testnet.coti.io/rpc"],
+  "faucets": ["https://faucet.coti.io"],
+  "infoURL": "https://coti.io/"
+}, {
   "name": "Saakuru Mainnet",
   "chainId": 7225878,
   "shortName": "saakuru",
@@ -22722,6 +22787,19 @@
   "rpc": ["https://edgewallet1.xlon.org/"],
   "faucets": [],
   "infoURL": "https://xlon.org"
+}, {
+  "name": "6Degree of Outreach - Testnet",
+  "chainId": 24772477,
+  "shortName": "6dotest",
+  "networkId": 24772477,
+  "nativeCurrency": {
+    "name": "6Degree-Testnet Coin",
+    "symbol": "6DO-T",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc-testnet.6do.world"],
+  "faucets": [],
+  "infoURL": "https://6do.world"
 }, {
   "name": "Excoincial Chain Volta-Testnet",
   "chainId": 27082017,

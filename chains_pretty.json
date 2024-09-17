@@ -3269,7 +3269,7 @@
   "chainId": 163,
   "networkId": 163
 }, {
-  "name": "Omni Omega",
+  "name": "Omni Omega Testnet",
   "chain": "Omni",
   "status": "active",
   "rpc": ["https://omega.omni.network", "wss://wss.omega.omni.network"],
@@ -6301,8 +6301,8 @@
 }, {
   "name": "Rupaya",
   "chain": "RUPX",
-  "rpc": [],
-  "faucets": [],
+  "rpc": ["https://rpc.rupaya.io"],
+  "faucets": ["https://faucet.rupaya.io"],
   "nativeCurrency": {
     "name": "Rupaya",
     "symbol": "RUPX",
@@ -6312,7 +6312,12 @@
   "shortName": "rupx",
   "chainId": 499,
   "networkId": 499,
-  "slip44": 499
+  "slip44": 499,
+  "explorers": [{
+    "name": "Rupaya Explorer",
+    "url": "https://scan.rupaya.io",
+    "standard": "EIP3091"
+  }]
 }, {
   "name": "Camino C-Chain",
   "chain": "CAM",
@@ -15121,6 +15126,30 @@
     }]
   }
 }, {
+  "name": "HyperAGI Mainnet",
+  "chain": "HyperAGI",
+  "rpc": [],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Hyperdust",
+    "symbol": "HYPT",
+    "decimals": 18
+  },
+  "features": [{
+    "name": "EIP155"
+  }, {
+    "name": "EIP1559"
+  }],
+  "infoURL": "https://hyperagi.network",
+  "shortName": "hypt",
+  "chainId": 2868,
+  "networkId": 1,
+  "explorers": [{
+    "name": "hyptscan",
+    "url": "https://block.hyperagi.network",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Chips Network",
   "chain": "CHIPS",
   "rpc": ["https://node.chips.ooo/wasp/api/v1/chains/iota1pp3d3mnap3ufmgqnjsnw344sqmf5svjh26y2khnmc89sv6788y3r207a8fn/evm"],
@@ -15162,6 +15191,27 @@
       "url": "https://gateway.boba.network"
     }]
   }
+}, {
+  "name": "Aarma Mainnet",
+  "chain": "Aarma",
+  "rpc": ["https://aarmarpc.com/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Aarma",
+    "symbol": "ARMA",
+    "decimals": 18
+  },
+  "infoURL": "https://aarmachain.com",
+  "shortName": "ARMA",
+  "chainId": 2889,
+  "networkId": 2889,
+  "icon": "arma",
+  "explorers": [{
+    "name": "aarmascan",
+    "url": "https://aarmascan.com",
+    "icon": "arma",
+    "standard": "none"
+  }]
 }, {
   "name": "Elux Chain",
   "chain": "ELUX",
@@ -25298,6 +25348,26 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "Everclear Mainnet",
+  "chain": "Everclear Mainnet",
+  "rpc": ["https://rpc.everclear.raas.gelato.cloud"],
+  "nativeCurrency": {
+    "name": "ETH",
+    "symbol": "ETH",
+    "decimals": 18
+  },
+  "faucets": [],
+  "infoURL": "",
+  "shortName": "Everclear",
+  "chainId": 25327,
+  "networkId": 25327,
+  "explorers": [{
+    "name": "Everclear",
+    "url": "https://scan.everclear.org",
+    "icon": "everclear",
+    "standard": "none"
+  }]
+}, {
   "name": "AlveyChain Testnet",
   "chain": "tALV",
   "rpc": ["https://testnet-rpc.alvey.io"],
@@ -28942,6 +29012,30 @@
   "explorers": [{
     "name": "DM2Verse Explorer",
     "url": "https://explorer.dm2verse.dmm.com",
+    "standard": "EIP3091"
+  }],
+  "parent": {
+    "type": "L2",
+    "chain": "eip155-248"
+  }
+}, {
+  "name": "DM2 Verse Testnet",
+  "chain": "DM2 Verse",
+  "icon": "dm2verse",
+  "rpc": ["https://rpc.testnet.dm2verse.dmm.com"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "OAS",
+    "symbol": "OAS",
+    "decimals": 18
+  },
+  "infoURL": "https://seamoon.dmm.com",
+  "shortName": "dm2t",
+  "chainId": 68775,
+  "networkId": 68775,
+  "explorers": [{
+    "name": "DM2Verse Testnet Explorer",
+    "url": "https://explorer.testnet.dm2verse.dmm.com",
     "standard": "EIP3091"
   }],
   "parent": {
@@ -36133,6 +36227,28 @@
     "standard": "EIP3091"
   }]
 }, {
+  "name": "COTI Testnet",
+  "title": "COTI Testnet",
+  "chain": "COTI",
+  "icon": "coti",
+  "rpc": ["https://testnet.coti.io/rpc"],
+  "faucets": ["https://faucet.coti.io"],
+  "nativeCurrency": {
+    "name": "COTI",
+    "symbol": "COTI",
+    "decimals": 18
+  },
+  "infoURL": "https://coti.io/",
+  "shortName": "coti-testnet",
+  "chainId": 7082400,
+  "networkId": 7082400,
+  "explorers": [{
+    "name": "COTI Testnet Explorer",
+    "url": "https://testnet.cotiscan.io",
+    "icon": "ethernal",
+    "standard": "EIP3091"
+  }]
+}, {
   "name": "Saakuru Mainnet",
   "chain": "Saakuru",
   "icon": "saakuru",
@@ -37038,6 +37154,31 @@
   "explorers": [{
     "name": "Excelon explorer",
     "url": "https://explorer.excelon.io",
+    "standard": "EIP3091"
+  }]
+}, {
+  "name": "6Degree of Outreach - Testnet",
+  "chain": "6DO",
+  "rpc": ["https://rpc-testnet.6do.world"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "6Degree-Testnet Coin",
+    "symbol": "6DO-T",
+    "decimals": 18
+  },
+  "features": [{
+    "name": "EIP155"
+  }, {
+    "name": "EIP1559"
+  }],
+  "infoURL": "https://6do.world",
+  "shortName": "6dotest",
+  "chainId": 24772477,
+  "networkId": 24772477,
+  "icon": "6do",
+  "explorers": [{
+    "name": "6Degree Testnet Chain Explorer",
+    "url": "https://explorer-testnet.6do.world",
     "standard": "EIP3091"
   }]
 }, {
