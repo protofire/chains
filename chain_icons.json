@@ -63,6 +63,14 @@
     "format": "png"
   }]
 }, {
+  "name": "0xl3",
+  "icons": [{
+    "url": "ipfs://QmSsUNLDQXspXXLCH6bUW5CKJgon42yiVZ2Gp4ZBWL79Vx",
+    "width": 500,
+    "height": 500,
+    "format": "png"
+  }]
+}, {
   "name": "vinuscan",
   "icons": [{
     "url": "ipfs://bafkreiayq7a5qncxzlilfnvpgzt4pwfxbof2qrqr2nyd2suztfummpty4i",
@@ -132,6 +140,14 @@
     "url": "ipfs://QmVxtpYYzc5214CB7BgsMC4mRNRHCD8fpbNMzZguBWyRwa",
     "width": 600,
     "height": 600,
+    "format": "png"
+  }]
+}, {
+  "name": "apechain",
+  "icons": [{
+    "url": "ipfs://QmTqiPnYZx6ZyPPbtsuh8VvvoH6DSCJGjTUgtTN9X8NScP",
+    "width": 1200,
+    "height": 1200,
     "format": "png"
   }]
 }, {
@@ -412,6 +428,14 @@
     "url": "ipfs://QmQsYisbKkCTKoKG2YSVs94UGuWWMiBspirH4Af4FyZeZz",
     "width": 80,
     "height": 80,
+    "format": "png"
+  }]
+}, {
+  "name": "tiktrix",
+  "icons": [{
+    "url": "ipfs://QmQW8DuuyxjdLWAPq3V9zSfdAimaStptZ4gxZ3aEviAafc",
+    "width": 1280,
+    "height": 1280,
     "format": "png"
   }]
 }, {
@@ -703,6 +727,14 @@
     "format": "png"
   }]
 }, {
+  "name": "zeniq",
+  "icons": [{
+    "url": "ipfs://QmVUVUBuN7ZeSty2PZ2sS41752b4ez4pDGbLjjY8PSrmVu",
+    "width": 600,
+    "height": 600,
+    "format": "png"
+  }]
+}, {
   "name": "ganache",
   "icons": [{
     "url": "ipfs://Qmc9N7V8CiLB4r7FEcG7GojqfiGGsRCZqcFWCahwMohbDW",
@@ -741,6 +773,14 @@
     "width": 1016,
     "height": 1016,
     "format": "png"
+  }]
+}, {
+  "name": "game7testnet",
+  "icons": [{
+    "url": "ipfs://Qmbk23C5vZpGBfq8SuPXR1PrfWER2m8w6LGqBkhXAvxia1",
+    "width": 40,
+    "height": 40,
+    "format": "svg"
   }]
 }, {
   "name": "jaihoIcon",
@@ -1212,6 +1252,14 @@
     "url": "ipfs://QmeknNzGCZXQK7egwfwyxQan7Lw8bLnqYsyoEgEbDNCzJX",
     "width": 600,
     "height": 529,
+    "format": "png"
+  }]
+}, {
+  "name": "inco",
+  "icons": [{
+    "url": "ipfs://QmU9aHw1i3qM8rZekXfb4rFZHPxVvsLdnpohKLGGFYewMg",
+    "width": 1661,
+    "height": 480,
     "format": "png"
   }]
 }, {
@@ -2135,6 +2183,14 @@
     "format": "png"
   }]
 }, {
+  "name": "aeon",
+  "icons": [{
+    "url": "ipfs://Qmeq49hbjDHYyWs4UyUHwwde5WUemJYJSLSXiik6up5NjE",
+    "width": 240,
+    "height": 240,
+    "format": "png"
+  }]
+}, {
   "name": "fxcore",
   "icons": [{
     "url": "ipfs://QmauD5hzc5q1VgEU1nT4AGLCeV79CB8GgfnXXeeLmBZVHf",
@@ -2373,6 +2429,14 @@
     "width": 800,
     "height": 800,
     "format": "svg"
+  }]
+}, {
+  "name": "jzero",
+  "icons": [{
+    "url": "ipfs://QmVXd6Jm541mVJbfzHQaZNZce9znvm8iXfxgf91J2XNg61",
+    "width": 512,
+    "height": 512,
+    "format": "png"
   }]
 }, {
   "name": "xcap",
@@ -3271,6 +3335,14 @@
     "format": "png"
   }]
 }, {
+  "name": "pop-boss",
+  "icons": [{
+    "url": "ipfs://QmW3NPDe6WRqucrWbe8pg3GqSMPi8V6Qa1fAiaQuqjxSJC",
+    "width": 1256,
+    "height": 1256,
+    "format": "png"
+  }]
+}, {
   "name": "move",
   "icons": [{
     "url": "ipfs://QmWRAor77N6VyjJiQgtsEE7h9Bd1Q7vtRveTYv2A6wZyAT",
@@ -3476,6 +3548,14 @@
     "url": "ipfs://QmSDJPBKh9cLVL8UZ5KYwdwPyhD8bRWNb33jjt48wtu5Uc",
     "width": 241,
     "height": 179,
+    "format": "png"
+  }]
+}, {
+  "name": "dscscan",
+  "icons": [{
+    "url": "ipfs://QmfY4XoQCj3WbiSsj7nZyBXwkDX6PFsWSroTDvhP9Eoy6S",
+    "width": 53,
+    "height": 53,
     "format": "png"
   }]
 }, {
@@ -4295,6 +4375,14 @@
     "format": "png"
   }]
 }, {
+  "name": "skate",
+  "icons": [{
+    "url": "ipfs://QmdofX1W8QFt4TSDaq2wyPvYuUba9LabgD1MYcn3Hezu8h",
+    "width": 600,
+    "height": 875,
+    "format": "png"
+  }]
+}, {
   "name": "conflux",
   "icons": [{
     "url": "ipfs://bafkreifj7n24u2dslfijfihwqvpdeigt5aj3k3sxv6s35lv75sxsfr3ojy",
@@ -4404,6 +4492,14 @@
     "url": "ipfs://QmPCEGZD1p1keTT2YfPp725azx1r9Ci41hejeUuGL2whFA",
     "width": 800,
     "height": 800,
+    "format": "png"
+  }]
+}, {
+  "name": "astrasepolia",
+  "icons": [{
+    "url": "ipfs://QmQW8DuuyxjdLWAPq3V9zSfdAimaStptZ4gxZ3aEviAafc",
+    "width": 1280,
+    "height": 1280,
     "format": "png"
   }]
 }, {
@@ -4525,6 +4621,14 @@
     "width": 700,
     "height": 495,
     "format": "png"
+  }]
+}, {
+  "name": "game7",
+  "icons": [{
+    "url": "ipfs://Qmbk23C5vXpGBfq8SuPXR1PrfWER2m8w6LGqBkhXAvxia9",
+    "width": 40,
+    "height": 40,
+    "format": "svg"
   }]
 }, {
   "name": "chilizspicy",
@@ -6461,6 +6565,14 @@
     "width": 500,
     "height": 500,
     "format": "jpg"
+  }]
+}, {
+  "name": "zebrocoin",
+  "icons": [{
+    "url": "ipfs://bafkreig42tcn5hfgtzszmwvmodsxvtu5frfkgreb23dndle2mywns3xxse",
+    "width": 64,
+    "height": 64,
+    "format": "png"
   }]
 }, {
   "name": "alg",
